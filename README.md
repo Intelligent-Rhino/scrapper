@@ -1,5 +1,5 @@
 # scrapper
-scrapper code for social media
+Try to scrap data from mess social media such as twitter, facebook. 
 
 
 ### Done :
